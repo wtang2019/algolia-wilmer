@@ -25,7 +25,7 @@ This project was created with algolia's create-instantsearch-app and using the d
 The concept of how algolia works has been understood but however due to time constraints I haven't changed the UI much.
 
 ## Feedback
-I initially thought that I could easily integrate algolia's search by simply using algolia's API into my existing website. However, it took me some time to understand the concept of the different components. I quickly built a web application based on Python hosted in Azure and wanted to integrate Algolia's search into that using the airport dataset. But the Python API was actually just used to push data into Algolia.
+I initially thought that I could easily integrate algolia's search by simply using algolia's API into my existing website. However, it took me some time to understand the concept of the different components. I quickly built a web application based on Python hosted in Azure and wanted to integrate Algolia's search into that using the airport dataset. But the Python API was actually just used to push data into Algolia. So to speed up the tests I used the instantsearch app to create the UI instead.
 
 Some of the challenges I faced during the Integration:
 * The understanding of the different components and finding the right documentation to guide me through an example
