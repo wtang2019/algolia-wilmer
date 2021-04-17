@@ -17,5 +17,44 @@ Indexing optimize the search operations on all the records you stored.
 Custom Ranking is very powerful to further tailor Algolia's capabilities to your specific business needs. Some of the examples includes popularity or rating.
 Please see also the documentation here to see more examples: https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/
 
+I hope I could help you further with your questions and let me know if you need more info.
+Thanks
+
+Question 2: Hello,
+
+Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
+
+Regards, Matt
+
+Answer:
+Hi Matt,
+While I understand that this could be inconvenient for you to do this now with our dashboard you can still see if you could use our APIs instead to achieve the same but way faster:
+https://www.algolia.com/doc/api-client/getting-started/upgrade-guides/ruby/#clear_index
+https://www.algolia.com/doc/api-reference/api-methods/delete-index/
+
+Let me know if you need more help.
+Best,
+
+
+Question 3: Hi,
+
+I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
+
+Regards, Leo
+
+Answer:
+Hi Leo,
+This can be done very quick. You basically need first obviously a Algolia account. After that you just need to push the data you want to make it searchable into
+Algolia either via the Portal UI or using the API. Both will push that in a JSON format.
+After completion you basically just add a few code into your website and you should be ready to go.
+See here a quick start guide to get you started:
+https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/quick-start-with-the-api-client/python/?client=python#search-ui
+
+Let me know if you have more questions.
+Thanks,
+
+
+
+
 
 
