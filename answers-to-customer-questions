@@ -45,7 +45,7 @@ Regards, Leo
 Answer:
 Hi Leo,
 This can be done very quick. You basically need first obviously a Algolia account. After that you just need to push the data you want to make it searchable into
-Algolia either via the Portal UI or using the API. Both will push that in a JSON format.
+Algolia either via the Portal UI or using the API.
 After completion you basically just add a few code into your website and you should be ready to go.
 See here a quick start guide to get you started:
 https://www.algolia.com/doc/guides/getting-started/quick-start/tutorials/quick-start-with-the-api-client/python/?client=python#search-ui
